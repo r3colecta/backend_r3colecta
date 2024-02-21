@@ -47,11 +47,6 @@ Descripción...
 * ENTORNO 4: FRONTEND (RECT NATIVE)
  
 
-* (ENTORNO 4) APPMOVIL----------------BACKEND (ENTORNO 3)
-*                                     |-------------(POST)---------- (ENTORNO 1)
-*                                      |-------------(GET)----------- (ENTORNO 2)
-*                                      |-------------(PATCH)--------- (ENTORNO 1)
-*                                     |-------------(DELETE)---------(ENTORNO 1)
 
 
 ![image](https://github.com/r3colecta/backend_r3colecta/assets/14142984/421434d7-ba9d-49d7-94d7-4a6dbbc2b0fc)
