@@ -53,6 +53,8 @@ ENTORNO 4: FRONTEND (RECT NATIVE)
                                       |-------------(PATCH)--------- (ENTORNO 1)
                                       |-------------(DELETE)---------(ENTORNO 1)
 
+![image](https://github.com/r3colecta/backend_r3colecta/assets/14142984/fc19f5d0-3c83-413f-8ea9-501842aa4ff0)
+
 
 ### Diagramas
 poner diagramas de secuencia, uml, etc (a definir)
