@@ -41,19 +41,21 @@ Descripción...
 ---
 ## Arquitectura
 
-ENTORNO 1: BASE DE DATOS (MONGODB) (CLOUD)
-ENTORNO 2: CACHE/BASE DE DATOS (REDIS)
-ENTORNO 3: BACKEND (NEST.JS) (VERCEL)
-ENTORNO 4: FRONTEND (RECT NATIVE)
+* ENTORNO 1: BASE DE DATOS (MONGODB) (CLOUD)
+* ENTORNO 2: CACHE/BASE DE DATOS (REDIS)
+* ENTORNO 3: BACKEND (NEST.JS) (VERCEL)
+* ENTORNO 4: FRONTEND (RECT NATIVE)
+ 
+
+* (ENTORNO 4) APPMOVIL----------------BACKEND (ENTORNO 3)
+*                                     |-------------(POST)---------- (ENTORNO 1)
+*                                      |-------------(GET)----------- (ENTORNO 2)
+*                                      |-------------(PATCH)--------- (ENTORNO 1)
+*                                     |-------------(DELETE)---------(ENTORNO 1)
 
 
-(ENTORNO 4) APPMOVIL----------------BACKEND (ENTORNO 3)
-                                      |-------------(POST)---------- (ENTORNO 1)
-                                      |-------------(GET)----------- (ENTORNO 2)
-                                      |-------------(PATCH)--------- (ENTORNO 1)
-                                      |-------------(DELETE)---------(ENTORNO 1)
+![image](https://github.com/r3colecta/backend_r3colecta/assets/14142984/421434d7-ba9d-49d7-94d7-4a6dbbc2b0fc)
 
-![image](https://github.com/r3colecta/backend_r3colecta/assets/14142984/fc19f5d0-3c83-413f-8ea9-501842aa4ff0)
 
 
 ### Diagramas
