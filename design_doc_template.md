@@ -56,6 +56,9 @@ Descripción...
 ### Diagramas
 poner diagramas de secuencia, uml, etc (a definir)
 
+![image](https://github.com/r3colecta/backend_r3colecta/assets/14142984/bf945e24-8d1f-4232-832a-ef0450150f2f)
+
+
 ### Modelo de datos
 Poner diseño de entidades, Jsons, tablas, diagramas entidad relación, etc.. (a definir)
 
