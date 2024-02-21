@@ -1,15 +1,15 @@
-# Titulo: Template de documento de diseño
+# Titulo: Documento de Diseño R3colecta
 ---
 ## Overview: Problema a resolver
 Descripción..
 
 ### Alcance(Scope)
-Descripción..
+Diseño de APP mobile, desarrollo del backend, desarrollo de la base de datos NoSQL
 
 #### Casos de uso
 Descripción...
-* Caso de uso 1
-* Caso de uso 2
+* Caso de uso 1: El usuario debe registrarse a la aplicación por media de su cuenta de google
+* Caso de uso 2: El usuario debe 
 * ...
 
 #### Out of Scope (casos de uso No Soportados)
